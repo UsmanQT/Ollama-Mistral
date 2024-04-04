@@ -15,13 +15,16 @@ This project will show you how to setup with Ollama on Apple MacBooks and also h
 ```
 ollama run mistral
 ```
-It will take a few minutes to download and run the mistral model
+It will take a few minutes to download and run the mistral model.
+
 5. Once the download is done and you see ">>>", start chatting with the mistral model to see if everything is fine.
+
 6. You can also download llama2 model by typing in your terminal
 ```
 ollama run llama2
 ```
 7. Some commands to interact with ollama using terminal
+
     - To see all the downloaded models: 
         ```
         ollama list
