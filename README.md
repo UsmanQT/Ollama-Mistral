@@ -35,7 +35,7 @@ ollama run llama2
         ```
     - To delete a model:
         ```
-        ollama rmi
+        ollama rm
         ```
 
 ### To run the ollama models using python scripts
