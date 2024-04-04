@@ -45,7 +45,7 @@ Install the project by following these steps:
     ```
     git clone https://github.com/UsmanQT/Ollama-Mistral.git
     ```
-2. Navigate to the project directory:
+2. Navigate to the project directory if not already. Otherwise skip this step:
     ```
     cd Ollama-Mistral
     ```
