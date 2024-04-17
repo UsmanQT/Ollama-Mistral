@@ -1,5 +1,3 @@
-# How to run models likst Mistral-7B and Llama using Ollama on M1/M2 Mac?
-
 
 ## Description
 This project will show you how to setup with Ollama on Apple MacBooks and also how to run python scripts to call the Mistral or Llama2 using API.
@@ -55,11 +53,9 @@ To use the project, follow these steps:
     ```
     python3 mistral-ollama.py
     ```
-2. Enter prompt: "Hey how are you doing?"
+2. Right now, I am giving it sample dummy comments instead of taking user input.
 
 3. You can change the model's name to "llama2" in the curl command if you wish to use llama2.
-
-## Wonderful !! You just ran models from Ollama on your local MacBook
 
 ## Contact
 For inquiries, please contact:
