@@ -1,6 +1,6 @@
 
 ## Description
-This project will show you how to setup with Ollama on Apple MacBooks and also how to run python scripts to call the Mistral or Llama2 using API.
+This project will show you how to setup with Ollama on Apple MacBooks and also how to run python scripts to call the Mistral or Llama2 using API and chat with these models.
 
 ## Installation
 
@@ -53,7 +53,7 @@ To use the project, follow these steps:
     ```
     python3 mistral-ollama.py
     ```
-2. Right now, I am giving it sample dummy comments instead of taking user input.
+2. You can enter the prompts and chat with the model.
 
 3. You can change the model's name to "llama2" in the curl command if you wish to use llama2.
 
